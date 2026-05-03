@@ -1,5 +1,5 @@
 # 🤖 Palyam IQ
-### AI-Assisted Integration Diagnostics for Oracle Integration Cloud (OIC)
+### AI-Assisted Enterprise Integration Diagnostics Platform (Prototype)
 
 > **Disclaimer:** This is a simplified representation of the system. Core algorithms,
 > AI models, and internal logic are intentionally abstracted and not included.
