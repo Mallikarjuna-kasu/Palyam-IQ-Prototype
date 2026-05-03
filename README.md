@@ -65,7 +65,7 @@ Designed to augment integration engineers by accelerating root cause identificat
 
 ## Sample Interaction
 
-**Input:** `JWT token expired calling Oracle ERP REST API`
+**Input:** `Authentication token expired during enterprise API request`
 
 **Output:**
 - **Error Summary:** Token expiry during outbound REST API call
@@ -100,6 +100,6 @@ error categories including REST, SOAP, FTP, Scheduler, SSL, B2B, and DB adapters
 
 ## About
 
-Built by **Kasu Mallikarjuna** — Integration Engineer specializing in Oracle Integration Cloud (OIC) and enterprise integration systems, with a focus on API-driven architectures and intelligent diagnostics.
+Built by **Palyam IQ** 
 
 📧 support@palyamiq.com
